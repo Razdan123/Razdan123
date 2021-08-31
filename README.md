@@ -1,5 +1,5 @@
-### Hola, I'm Rohit Razdan there! 👋
 
+<h1 style="text-align:center;">Hola, I'm Rohit Razdan there! 👋</h1>
 - 🔭 I’m currently working on MERN Stack .
 - 🌱 I’m currently learning full-stack Web Development.
 - 💬 Ask me about myself on linkedin.
