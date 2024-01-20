@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on MERN Stack .
 </li>
 <li>
-- 🌱 I’m currently learning full-stack Web Development.
+- 🌱 Full-stack Web Developer.
 </li>
 <li>
 - 💬 Ask me about myself on linkedin.
