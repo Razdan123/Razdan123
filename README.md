@@ -43,7 +43,7 @@
 
 <p>
 <a href="mailto:razdanrohit73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/rohit-razdan-790691201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rohit-razdan-a393a6288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/profile.php?id=100006753678811"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/rohit.5826/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.quora.com/profile/Rohit-Razdan-10"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
